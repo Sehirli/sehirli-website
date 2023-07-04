@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+  position: relative;
+  background-color: black;
+  font-family: "Kanit";
+  position: relative;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 600,
+  'GRAD' 200,
+  'opsz' 48
+}
+
+.topnav p {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 19px 20px 0 0;
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-weight: 300;
+  width: 100vw;
+}
+
+.topnav span {
+  float: left;
+  color: white;
+  padding: 20px 20px;
+  font-size: 40px !important;
+}
+
+.header {
+  position: relative;
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+underline {
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0; 
+  right: 0;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
