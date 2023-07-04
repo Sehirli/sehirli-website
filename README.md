@@ -1,3 +1,3 @@
-## Şehirli Website
+# Şehirli Website
 
-# Şehirli'nin websitesi, Solid.JS ile yapıldı.
+### Şehirli'nin websitesi, Solid.JS ile yapıldı.
