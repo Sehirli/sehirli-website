@@ -54,12 +54,7 @@ const Agreement: Component = () => {
                     </p>
                     <h2>Toplanan Kişisel Verileriniz, Toplanma Yöntemi ve Hukuki Sebebi</h2>
                     <p>
-                    Şehirli sadece sizin telefon numaranızı kaydetmektedir. Kayıtlarınız tarafımızca,
-                    çerezler (cookies) vb. teknolojiler vasıtasıyla, otomatik veya otomatik olmayan yöntemlerle
-                    ve bazen de analitik sağlayıcılar, reklam ağları, arama bilgi sağlayıcıları,
-                    teknoloji sağlayıcıları gibi üçüncü taraflardan elde edilerek, kaydedilerek,
-                    depolanarak ve güncellenerek, aramızdaki hizmet ve sözleşme ilişkisi çerçevesinde
-                    ve süresince, meşru menfaat işleme şartına dayanılarak işlenecektir.
+                     Kimlik, (isim, soy isim, doğum tarihi gibi) iletişim, (adres, e-posta adresi, telefon, IP, konum gibi) özlük, sosyal medya, finans bilgileriniz ile görsel ve işitsel kayıtlarınız tarafımızca, çerezler (cookies) vb. teknolojiler vasıtasıyla, otomatik veya otomatik olmayan yöntemlerle ve bazen de analitik sağlayıcılar, reklam ağları, arama bilgi sağlayıcıları, teknoloji sağlayıcıları gibi üçüncü taraflardan elde edilerek, kaydedilerek, depolanarak ve güncellenerek, aramızdaki hizmet ve sözleşme ilişkisi çerçevesinde ve süresince, meşru menfaat işleme şartına dayanılarak işlenecektir.
                     </p>
                     <h2>Kişisel Verilerinizin İşlenme Amacı</h2>
                     <p>
