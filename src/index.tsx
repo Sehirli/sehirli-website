@@ -42,6 +42,8 @@ render(
           <a style="font-size: 20px;"> &#9679; </a>
           <a class={styles.a} href="/sozlesme">Kullanıcı Sözleşmesi</a>
           <a style="font-size: 20px;"> &#9679; </a>
+          <a class={styles.a} href="https://github.com/Sehirli">GitHub</a>
+          <a style="font-size: 20px;"> &#9679; </a>
           <a class={styles.a} href="https://emirsurmen.com/#/" target="_blank">© 2023 Emir Sürmen</a>
         </div>
       </div>
